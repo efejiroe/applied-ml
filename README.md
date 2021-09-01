@@ -513,4 +513,4 @@ P.P.S, Looking for guides and interviews on applying ML? [`applyingML`](https://
 
 <br>
 
-**P.S., Want a summary of ML advancements?** Get up to speed with survey papers 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
+**P.S., Want a summary of ML advancements?** Get up to speed with survey papers [`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
